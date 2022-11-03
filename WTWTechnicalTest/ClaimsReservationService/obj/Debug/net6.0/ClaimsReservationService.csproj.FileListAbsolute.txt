@@ -1,0 +1,12 @@
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\bin\Debug\net6.0\ClaimsReservationService.deps.json
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\bin\Debug\net6.0\ClaimsReservationService.dll
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\bin\Debug\net6.0\ClaimsReservationService.pdb
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ClaimsReservationService.csproj.AssemblyReference.cache
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ClaimsReservationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ClaimsReservationService.AssemblyInfoInputs.cache
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ClaimsReservationService.AssemblyInfo.cs
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ClaimsReservationService.csproj.CoreCompileInputs.cache
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ClaimsReservationService.dll
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\refint\ClaimsReservationService.dll
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ClaimsReservationService.pdb
+C:\Users\TABKAD\Downloads\WTW_Developer_Test\WTWTechnicalTest\ClaimsReservationService\obj\Debug\net6.0\ref\ClaimsReservationService.dll
